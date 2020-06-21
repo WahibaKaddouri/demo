@@ -1,14 +1,1 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+{"details":{"data":[{"NOTIFICATION_ID":"109792473","TO_USER":"Mariam Humaid Alzaabi","SUBJECT":"This checks batch No PF-USD-18-JUN-2020 needs your approval","FROM_USER":"Sara Khalifa Alaamer","ITEM_KEY":"XXAPCAPR/47461-18-06-12-29-44965"}]},"mbsheader":{"statusDesc":"Success","errorDesc":"Success","sessionid":"Z8OGyL09yqJ7pYYdTinwtxk","status":"0"}}
